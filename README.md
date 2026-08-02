@@ -1,2 +1,3 @@
 # shubham-demo
-IT is my first reposiyory
+It is my first reposiyory
+Author - Shubham sharma
